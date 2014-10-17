@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jaq:home|Door43 (jaq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jaq|d43-jaq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jaq/archive/master.zip|d43-jaq.zip]]
+
+**Recent Changes**
+{{changes>ns = jaq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jaq|Ethnologue data]]
+
